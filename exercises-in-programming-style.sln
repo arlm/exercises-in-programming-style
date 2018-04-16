@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runtime.CPU.1950", "01-good-old-times\Runtime.CPU.1950\Runtime.CPU.1950.csproj", "{5C0ECAC9-7E6F-41F9-87DF-17179B4FDE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runtime.CPU.1950.Tests", "01-good-old-times\Runtime.CPU.1950.Tests\Runtime.CPU.1950.Tests.csproj", "{73D9AC05-925B-4209-AD03-CC03785DDC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0ECAC9-7E6F-41F9-87DF-17179B4FDE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0ECAC9-7E6F-41F9-87DF-17179B4FDE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0ECAC9-7E6F-41F9-87DF-17179B4FDE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0ECAC9-7E6F-41F9-87DF-17179B4FDE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D9AC05-925B-4209-AD03-CC03785DDC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D9AC05-925B-4209-AD03-CC03785DDC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D9AC05-925B-4209-AD03-CC03785DDC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D9AC05-925B-4209-AD03-CC03785DDC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
